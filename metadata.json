@@ -1,0 +1,6 @@
+{
+  "name": "Time Sheet Maker",
+  "description": "برنامج تايم شيت مخصص لتسجيل الحضور وساعات العمل الإضافية وتغيير اسم الشركة والشهر ومشاركته عبر واتساب وطباعته",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
